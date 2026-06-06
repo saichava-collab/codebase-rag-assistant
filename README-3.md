@@ -1,4 +1,4 @@
-# 🚀 Codebase Q&A Assistant (RAG Project)
+# Codebase Q&A Assistant (RAG Project)
 
 A Retrieval-Augmented Generation tool that lets you ask natural-language questions about a codebase and instantly retrieve relevant code snippets.
 
@@ -10,7 +10,7 @@ This project includes:
 - LangChain text splitters
 - Streamlit frontend UI
 
-## 📦 Project Structure
+## Project Structure
 ```
 codebase-rag-assistant/
 │
@@ -32,7 +32,7 @@ codebase-rag-assistant/
     └── requirements.txt
 ```
 
-## 🛠 Setup Instructions
+## Setup Instructions
 
 ### 1. Install Python 3.10 or above
 ```
